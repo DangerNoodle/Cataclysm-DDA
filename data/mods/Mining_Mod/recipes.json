@@ -90,7 +90,7 @@
     "result": "lead",
     "type": "recipe",
     "result_mult": 4,
-    "byproducts": "silver_small",
+    "byproducts": [ [ "silver_small" ] ],
     "id_suffix": "smelt",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
